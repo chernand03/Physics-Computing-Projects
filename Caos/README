@@ -1,1 +1,4 @@
-Carpeta que contiene todos los programas empleados en el trabajo de sincronización explosiva, basados en los resultados del artículo Gómez-Gardeñes, J., Gómez, S., Arenas, A., & Moreno, Y. (2011). Explosive Synchronization Transitions in Scale-Free Networks. Physical Review Letters, 106(12), 128701
+Carpeta que contiene todos los programas empleados en el trabajo de sincronización explosiva, basados en los resultados del artículo:
+Gómez-Gardeñes, J., Gómez, S., Arenas, A., & Moreno, Y. (2011). Explosive Synchronization Transitions in Scale-Free Networks. Physical Review Letters, 106(12), 128701
+Esta carpeta contiene tres programas .py, que son los que generan los tres tipos de redes que se emplearon. Y el programa .cpp es el empleado para simular
+los resultados del trabajo.
